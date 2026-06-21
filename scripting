@@ -1,1 +1,2 @@
 :put [/system clock get time];
+:put [/system clock get date];
