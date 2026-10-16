@@ -45,4 +45,4 @@ async function intGitHub(data, fileName) {
         console.log("المحتوى مطابق \n" + fileName);
     }
 }
-alert("تم جلب ملف github.js بنجاح");
+alert("تم جلب ملف github.js بنجاح والحمد لله");
